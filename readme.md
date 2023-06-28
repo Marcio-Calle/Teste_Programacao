@@ -10,7 +10,7 @@ com um simbolo de arquivo, essa opção abrirá o local de instalação do xampp
 No local de instalação, abra a pasta nomeada como "htdocs", e coloque a pasta deste projeto neste local.
 
 Voltando ao aplicativo do xampp, veja a listagem na esquerda do aplicativo, e visualise onde está escrito
-"Apache", clique em "start", botão logo a esquerda do nome "Apache".
+"Apache", clique em "start", botão logo a direita do nome "Apache".
 
 Caso a opção Apache não fique verde, verifique as portas 80 ou 433 do seu dispositivo que são as portas padrão do "Apache".
 
